@@ -31,11 +31,13 @@ So, how do we make this happen everywhere? It starts with all of us. We need to 
   style="width:900px;height:500px;"
   />
 
+This bar graph provides an in-depth analysis of the usage of #4 and #6 fuels in the Queens borough in comparison to the specific 11385 zipcode. Significantly, this graph unveils a lower #4/#6 Primary Fuel ratio in the 11385 zipcode when contrasted with the broader Queens borough.
+
 <img
   class="fit-picture"
   src="Fig2.png"
   alt="CLEANHEAT ICON" 
   style="width:900px;height:500px;"
   />
+This graph delves into a comparative analysis of the average "Total Gallons (High)" within the confines of the 11385 neighborhood when juxtaposed with the collective data for the entirety of Queens. The bar graph distinctly portrays that the 11385 zipcode registers a higher volume of gas emissions in terms of gallons when compared to the broader Queens borough. This observation is further corroborated by the previous graph, which underscores the lower #4/#6 fuel ratio in the 11385 zipcode compared to Queens. This combined evidence substantiates the claim that Ridgewood, encapsulated by the 11385 zipcode, has experienced a lesser degree of influence from transformative initiatives such as the GGB plan and PlanNYC. Consequently, it is imperative for the local political representatives to address this situation promptly. Implementing strategic changes within this neighborhood is crucial to align it with greener and cleaner standards, thereby contributing to the overall environmental sustainability of the entire state.
 
-  
