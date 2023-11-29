@@ -7,110 +7,33 @@ Zip code 11385 is a lively and diverse community with energetic streets and a va
 
 <img
   class="fit-picture"
-  src="Focused_Briarwood.png"
+  src="Fig1.png"
   alt="Briarwood zoomed in" 
   style="width:900px;height:500px;"
   />
 
+# HC 11
 
-### Header 3
+<img
+  class="fit-picture"
+  src="Fig2.png"
+  alt="CLEANHEAT ICON" 
+  style="width:900px;height:500px;"
+  />
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+# HC6
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+In the vibrant heart of the city that never sleeps, where skyscrapers light up the night sky, a quiet revolution is happening—a change that might not steal the spotlight but is breathing life into the air we all share. Imagine New York City not just as a dazzling metropolis but as a place committed to a cleaner, greener future. At the forefront of this movement is the NYC Clean Heat Program, a lifeline for residents amidst the hustle and bustle, offering more than just a breath of fresh air.
 
-#### Header 4
+Beyond the glitz of the city, there's a collective effort to embrace cleaner heating fuels, bringing down air pollution and energy costs. The program doesn't just preach change; it provides the means for it, extending a helping hand to homes and buildings, turning them into champions of sustainability. The partnership with the NYC Retrofit Accelerator is like a tag-team for energy efficiency, making every building a fortress against waste. And guess what? It's working! The city, once shrouded in pollution, now breathes the cleanest air it has in fifty years. In a world grappling with climate change, this program is not just a program—it's a symbol of hope, a roadmap for cities globally, and proof that when we all pitch in, we can tackle environmental challenges head-on. The lights that make the New York skyline a spectacle aren't just for show—they're a symbol of a cleaner, brighter, and more sustainable future.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+So, how do we make this happen everywhere? It starts with all of us. We need to spread the word, make sure everyone understands how our choices impact the environment. And to make going green easier, let's throw in some incentives and subsidies, making sustainability a no-brainer for everyone. Partnerships like the one between the NYC Clean Heat Program and the NYC Retrofit Accelerator show us the power of working together. Every city can take a page from New York's book, tailoring similar programs to fit their own vibe. And let's keep the innovation flowing—research and development into cool, sustainable technologies will keep the city on the cutting edge of clean energy. By joining forces and taking care of our shared home, we can ensure that the lights of our cities not only dazzle but also stand as symbols of our commitment to a planet that thrives alongside our urban adventures.
 
-##### Header 5
+# HC11
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<img
+  class="fit-picture"
+  src="Fig2.png"
+  alt="CLEANHEAT ICON" 
+  style="width:900px;height:500px;"
+  />
