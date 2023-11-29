@@ -33,7 +33,8 @@ So, how do we make this happen everywhere? It starts with all of us. We need to 
 
 <img
   class="fit-picture"
-  src="Fig2.png"
+  src="Fig3.png"
   alt="CLEANHEAT ICON" 
   style="width:900px;height:500px;"
-  />
+
+
