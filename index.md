@@ -26,7 +26,7 @@ Beyond the glitz of the city, there's a collective effort to embrace cleaner hea
 
 So, how do we make this happen everywhere? It starts with all of us. We need to spread the word, make sure everyone understands how our choices impact the environment. And to make going green easier, let's throw in some incentives and subsidies, making sustainability a no-brainer for everyone. Partnerships like the one between the NYC Clean Heat Program and the NYC Retrofit Accelerator show us the power of working together. Every city can take a page from New York's book, tailoring similar programs to fit their own vibe. And let's keep the innovation flowing—research and development into cool, sustainable technologies will keep the city on the cutting edge of clean energy. By joining forces and taking care of our shared home, we can ensure that the lights of our cities not only dazzle but also stand as symbols of our commitment to a planet that thrives alongside our urban adventures.
 
-# HC 10
+# HC 6
 
 <img
   class="fit-picture"
@@ -35,7 +35,7 @@ So, how do we make this happen everywhere? It starts with all of us. We need to 
   style="width:900px;height:500px;"
   />
 
-# HC 11
+# HC 8
 
 <img
   class="fit-picture"
