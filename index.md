@@ -22,6 +22,15 @@ Beyond the glitz of the city, there's a collective effort to embrace cleaner hea
 
 So, how do we make this happen everywhere? It starts with all of us. We need to spread the word, make sure everyone understands how our choices impact the environment. And to make going green easier, let's throw in some incentives and subsidies, making sustainability a no-brainer for everyone. Partnerships like the one between the NYC Clean Heat Program and the NYC Retrofit Accelerator show us the power of working together. Every city can take a page from New York's book, tailoring similar programs to fit their own vibe. And let's keep the innovation flowing—research and development into cool, sustainable technologies will keep the city on the cutting edge of clean energy. By joining forces and taking care of our shared home, we can ensure that the lights of our cities not only dazzle but also stand as symbols of our commitment to a planet that thrives alongside our urban adventures.
 
+# HC 10
+
+<img
+  class="fit-picture"
+  src="Fig5.png"
+  alt="Briarwood zoomed in" 
+  style="width:900px;height:500px;"
+  />
+
 # HC 11
 
 <img
@@ -40,4 +49,3 @@ This bar graph provides an in-depth analysis of the usage of #4 and #6 fuels in 
   style="width:900px;height:500px;"
   />
 This graph delves into a comparative analysis of the average "Total Gallons (High)" within the confines of the 11385 neighborhood when juxtaposed with the collective data for the entirety of Queens. The bar graph distinctly portrays that the 11385 zipcode registers a higher volume of gas emissions in terms of gallons when compared to the broader Queens borough. This observation is further corroborated by the previous graph, which underscores the lower #4/#6 fuel ratio in the 11385 zipcode compared to Queens. This combined evidence substantiates the claim that Ridgewood, encapsulated by the 11385 zipcode, has experienced a lesser degree of influence from transformative initiatives such as the GGB plan and PlanNYC. Consequently, it is imperative for the local political representatives to address this situation promptly. Implementing strategic changes within this neighborhood is crucial to align it with greener and cleaner standards, thereby contributing to the overall environmental sustainability of the entire state.
-
