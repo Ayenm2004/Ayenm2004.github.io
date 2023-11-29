@@ -12,7 +12,11 @@ Zip code 11385 is a lively and diverse community with energetic streets and a va
   alt="CLEANHEAT ICON" 
   style="width:900px;height:500px;"
   />
-  
+
+#HC3 
+
+The DEP Boiler Registration, short for Department of Environmental Protection Boiler Registration, is a program designed to regulate the operation of boilers within a given jurisdiction. Boilers are industrial equipment that generate heat or steam for various processes, and their efficient and safe operation is essential for environmental and public safety reasons. The older buildings in New York City tend to have a black coating on their exterior due to soot from oil-burning boilers used for heating, specifically boilers that use low-grade No. 4 and No. 6 heating oil. The black dirt requires periodic cleaning since it contributes significantly to soot pollution in the city, even capable of entering apartments through open windows. Soot buildup is harmful and costly to clean, which is why the city established the boiler registration program. 
+This program ensures that boilers meet specific safety and environmental standards, such as emissions limits and equipment maintenance requirements. To lower soot emissions, the program’s initiative is “gradually phasing out oil-burning boilers and monitoring offenders through the Clean Air Tracking System (CATS) at the DEP” (Insparisk, 2023). By registering boilers and inspecting them triennially, the DEP can track and mitigate potential sources of air pollution, reduce the city’s carbon footprint, promote energy efficiency, and minimize the risks associated with boiler operation, safeguarding the environment and public health.
 
 # HC6
 
