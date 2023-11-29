@@ -3,23 +3,16 @@ This is the neighborhood of Ridgewood.
 
 Zip code 11385 is a lively and diverse community with energetic streets and a variety of people. The area has a lot of people packed into each square mile. Many different kinds of people live there. The average age in this area is 36.2 It has a good mix of young professionals and people who have lived here for a long time, which makes it vibrant and exciting. This area has people of all ages, including many different generations. About 1 in 5 people are under 18 years old, showing that there are a lot of young people. Around 27.46% of people aged between 18 and 34 years old are considered young adults. The group of people who are 35 to 64 years old is the biggest, representing 40. 92% of the population. In zip code 11385, there are older people, aged 65 and over, who make up a smaller but important part of the community. They represent 11. 4% of the total residents and contribute to the diversity and mix of different generations in the area.
 
-# HC 11
+
+# HC2
 
 <img
   class="fit-picture"
-  src="Fig1.png"
-  alt="Briarwood zoomed in" 
-  style="width:900px;height:500px;"
-  />
-
-# HC 11
-
-<img
-  class="fit-picture"
-  src="Fig2.png"
+  src="Fig4.png"
   alt="CLEANHEAT ICON" 
   style="width:900px;height:500px;"
   />
+  
 
 # HC6
 
@@ -29,12 +22,20 @@ Beyond the glitz of the city, there's a collective effort to embrace cleaner hea
 
 So, how do we make this happen everywhere? It starts with all of us. We need to spread the word, make sure everyone understands how our choices impact the environment. And to make going green easier, let's throw in some incentives and subsidies, making sustainability a no-brainer for everyone. Partnerships like the one between the NYC Clean Heat Program and the NYC Retrofit Accelerator show us the power of working together. Every city can take a page from New York's book, tailoring similar programs to fit their own vibe. And let's keep the innovation flowing—research and development into cool, sustainable technologies will keep the city on the cutting edge of clean energy. By joining forces and taking care of our shared home, we can ensure that the lights of our cities not only dazzle but also stand as symbols of our commitment to a planet that thrives alongside our urban adventures.
 
-# HC11
+# HC 11
 
 <img
   class="fit-picture"
-  src="Fig4.png"
+  src="Fig1.png"
+  alt="Briarwood zoomed in" 
+  style="width:900px;height:500px;"
+  />
+
+<img
+  class="fit-picture"
+  src="Fig2.png"
   alt="CLEANHEAT ICON" 
   style="width:900px;height:500px;"
+  />
 
-
+  
