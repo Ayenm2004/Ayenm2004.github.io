@@ -1,5 +1,5 @@
 title: Ridgewood, Queens, NY, 11385.
 description: This is the project for my first CSCI project, and this analyzes the neighborhood, and the clean energy analysis.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
